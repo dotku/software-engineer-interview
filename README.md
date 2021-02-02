@@ -1,2 +1,5 @@
 # interview-preperation
-my personal interview preparation sharing
+My personal interview preparation sharing.
+
+# Coding Challenge
+https://www.coderbyte.com/challenges
