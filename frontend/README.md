@@ -1,5 +1,3 @@
-hello?
-
 Preparation Template : 
 Data Structures and Algorithms 
 1. First Learn the concept - go to YouTube - Search for that topic - Watch the videos 
