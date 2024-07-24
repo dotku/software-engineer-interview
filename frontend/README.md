@@ -95,17 +95,3 @@ Priority
  Given data for food in an array of objects containing name, price and description, write a component to display them. When a user clicks one of the items, 
  it will be added to cart. If it is clicked multiple times, the count will be increased. Implemented a cart component to show the items added to cart like, 
  name, price and count and calculate and display the total price.
-
-
-nodeJS:
-
-How to make a rest api call in nodejs?
-Scenario: You are tasked with building a RESTful API for managing a list of books. Each book has a title, author, and ISBN. Implement basic CRUD 
-(Create, Read, Update, Delete) operations using Express.js.
-Scenario: Write a Node.js script that reads the contents of a directory, filters out only the .txt files, and prints their contents to the console.
-Scenario: Implement a simple chat server using WebSockets. Users should be able to connect to the server and broadcast messages to all other connected users.
-Scenario: Create a simple API to manage a list of users using MongoDB. Implement endpoints to add, retrieve, update, and delete users.
-Scenario: Write a function that reads a file and logs its contents. Use Promises and async/await to handle asynchronous operations.
-
-
-
